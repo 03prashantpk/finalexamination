@@ -1,7 +1,4 @@
-# Basic Django Template To Start Your Test
-
-This is the basic django environment to start your test/examination and etc.
-just clone it modify and done.
+# Basic Django End term Exam
 
 ### Contains:
 

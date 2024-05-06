@@ -10,6 +10,20 @@ just clone it modify and done.
 3. Views
 4. Templates
 
+
+### Run this project
+
+``` Bash
+
+pip install -r requirements.txt
+
+python manage.py migrate
+
+python manage.py runserver
+
+```
+
+
 ### Installation 
 
 ```Bash
